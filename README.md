@@ -63,6 +63,8 @@ npm run test
 │   │   ├── orange.jpg
 │   │   ├── strawberry.jpg
 │   ├── index.html
+├── tests
+│   ├── script.test.js
 ├── package.json
 ├── package-lock.json
 ├── README.md
