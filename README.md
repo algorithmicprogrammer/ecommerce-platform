@@ -1,8 +1,14 @@
 <a id="readme-top"></a>
-[![Language](https://img.shields.io/badge/Language-JavaScript-239120?style=for-the-badge)](https://learn.microsoft.com/ru-ru/dotnet/csharp/tour-of-csharp/overview)
-[![OS](https://img.shields.io/badge/OS-Linux%2C%20Windows%2C%20MacOS-0078D4?style=for-the-badge)](https://docs.abblix.com/docs/technical-requirements)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/algorithmicprogrammer/business-landing-page?style=for-the-badge)](#)
-[![Free](https://img.shields.io/badge/Free_for_Commercial_Use-brightgreen?style=for-the-badge)](#-license)
+![GitHub contributors](https://img.shields.io/github/contributors-anon/algorithmicprogrammer/ecommerce-platform)
+![GitHub Created At](https://img.shields.io/github/created-at/algorithmicprogrammer/ecommerce-platform)
+![GitHub last commit](https://img.shields.io/github/last-commit/algorithmicprogrammer/ecommerce-platform)
+![GitHub top language](https://img.shields.io/github/languages/top/algorithmicprogrammer/ecommerce-platform)
+![GitHub language count](https://img.shields.io/github/languages/count/algorithmicprogrammer/ecommerce-platform)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/algorithmicprogrammer/ecommerce-platform)
+
+
+
+
 
 <h1 align="center">Ecommerce Platform</h1>
 
