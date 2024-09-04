@@ -71,6 +71,7 @@ npm run test
 │   ├── index.html
 ├── tests
 │   ├── script.test.js
+├── LICENSE
 ├── package.json
 ├── package-lock.json
 ├── README.md
