@@ -5,6 +5,8 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/algorithmicprogrammer/ecommerce-platform)
 ![GitHub language count](https://img.shields.io/github/languages/count/algorithmicprogrammer/ecommerce-platform)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/algorithmicprogrammer/ecommerce-platform)
+![GitHub repo size](https://img.shields.io/github/repo-size/algorithmicprogrammer/ecommerce-platform)
+
 
 
 
