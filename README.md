@@ -1,11 +1,12 @@
 <a id="readme-top"></a>
-![GitHub contributors](https://img.shields.io/github/contributors-anon/algorithmicprogrammer/ecommerce-platform)
-![GitHub Created At](https://img.shields.io/github/created-at/algorithmicprogrammer/ecommerce-platform)
-![GitHub last commit](https://img.shields.io/github/last-commit/algorithmicprogrammer/ecommerce-platform)
-![GitHub top language](https://img.shields.io/github/languages/top/algorithmicprogrammer/ecommerce-platform)
-![GitHub language count](https://img.shields.io/github/languages/count/algorithmicprogrammer/ecommerce-platform)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/algorithmicprogrammer/ecommerce-platform)
-![GitHub repo size](https://img.shields.io/github/repo-size/algorithmicprogrammer/ecommerce-platform)
+![GitHub contributors](https://img.shields.io/github/contributors-anon/algorithmicprogrammer/ecommerce-platform?style=for-the-badge)
+![GitHub Created At](https://img.shields.io/github/created-at/algorithmicprogrammer/ecommerce-platform?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/algorithmicprogrammer/ecommerce-platform?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/algorithmicprogrammer/ecommerce-platform?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/algorithmicprogrammer/ecommerce-platform?style=for-the-badge)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/algorithmicprogrammer/ecommerce-platform?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/algorithmicprogrammer/ecommerce-platform?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/algorithmicprogrammer/ecommerce-platform?style=for-the-badge)
 
 
 
