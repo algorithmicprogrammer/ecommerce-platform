@@ -51,7 +51,6 @@ describe('Checkout Functionality Tests', () => {
      * @function grandTotal
      * @returns {number} cartSum
      */
-    // Functiion get's grand total of cart
     function grandTotal() {
         let cartSum = 0;
 
