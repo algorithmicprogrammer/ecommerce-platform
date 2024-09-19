@@ -74,6 +74,7 @@ npm run test
 │   ├── index.html
 ├── tests
 │   ├── script.test.js
+├── CODE_OF_CONDUCT.md
 ├── LICENSE
 ├── package.json
 ├── package-lock.json
